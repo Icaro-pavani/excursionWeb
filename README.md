@@ -1,1 +1,6 @@
 # excursionWeb
+##Introduction
+It is a project to creat a campaign sit for a new app.
+##Technology
+1. HTML
+2. CSS
